@@ -7,3 +7,4 @@ To run locally,
 4. You will be automatically redirected to the site
 
 For publicly hosted web app,
+https://gtac-test-demo.streamlit.app/
